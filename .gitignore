@@ -1,0 +1,13 @@
+*.pdf
+.ipynb_checkpoints
+*.ttf
+*.ttc
+
+# misc
+.DS_Store
+
+# idea
+__pycache__
+.idea/
+**/.ipynb_checkpoints
+*.ipynb
